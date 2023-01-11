@@ -4,3 +4,6 @@ trying merging branch
 
 I am a change
 Trying to make a change
+
+Tring to edit file2
+
