@@ -2,8 +2,12 @@
 i am in branch1 
 trying merging branch
 
+
 I am a change
 Trying to make a change
 
 
 this is a change to file2
+=======
+Suchi di's file
+
