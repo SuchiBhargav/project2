@@ -3,3 +3,4 @@ i am in branch1
 trying merging branch
 
 These are some new changes to the file!
+These are some more changes to the same file!!
