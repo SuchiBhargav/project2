@@ -2,6 +2,7 @@
 i am in branch1 
 trying merging branch
 
+<<<<<<< HEAD
 
 
 
@@ -10,3 +11,7 @@ trying merging branch
 
 
 Hello ! 
+=======
+I am a change
+Trying to make a change
+>>>>>>> f3280a6109063f0ab55b73717001e4de507c4eea
