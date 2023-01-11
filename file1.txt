@@ -1,4 +1,11 @@
 file 1 is added 
 adding more code
-Hello
+
+  <<<<<<< master 
+  Hello 
+  ======= 
+
+  vuhwvhf okmpg3ng ;ihtg 
+
+  >>>>>>> master 
 ghfjdt
