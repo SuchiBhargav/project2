@@ -1,3 +1,7 @@
 
 i am in branch1 
 trying merging branch
+
+blah
+
+to main branch
