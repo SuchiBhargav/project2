@@ -2,3 +2,4 @@
 i am in branch1 
 trying merging branch
 Made some changes
+Hello World
