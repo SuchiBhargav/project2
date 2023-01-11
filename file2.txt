@@ -1,6 +1,1 @@
 
-i am in branch1 
-trying merging branch
-
-I am a change
-Trying to make a change
