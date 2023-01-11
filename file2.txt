@@ -1,4 +1,7 @@
 
 i am in branch1 
 trying merging branch
-lol...
+
+I am a change
+Trying to make a change
+
